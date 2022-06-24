@@ -1,0 +1,22 @@
+body{
+    background-color: burlywood;
+}
+h1{
+    text-align: center;
+    color: brown;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    text-align: center;
+    color: blueviolet;
+}
+h2{
+    color: rgb(126, 126, 56);
+}
+a{
+    color: brown;
+}

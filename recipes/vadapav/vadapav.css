@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(230, 149, 112);
+}
+h1{
+    text-align: center;
+    color: green;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    text-align: center;
+    color: blueviolet;
+}
+h2{
+    color: rgb(13, 110, 110);
+}
+a{
+    color: green;
+}
+.bv{
+    color: brown;
+}
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}

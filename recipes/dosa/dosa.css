@@ -1,0 +1,25 @@
+body{
+    background-color: rgba(249, 207, 207, 0.808);
+}
+h1{
+    text-align: center;
+    color: brown;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    text-align: center;
+    color: blueviolet;
+}
+h2{
+    color: green;
+}
+h3{
+    color: orangered;
+}
+a{
+    color: brown;
+}

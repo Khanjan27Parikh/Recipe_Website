@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(red,yellow);
+    background-attachment: fixed;
+}
+
+h1{
+    color: orange;
+}
+h2{
+    color: red;
+}
+a{
+    color: rebeccapurple;
+}
